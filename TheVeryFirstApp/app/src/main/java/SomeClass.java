@@ -4,7 +4,11 @@
 
 public class SomeClass {
 
+    private boolean isEmpty;
+
     public SomeClass()
-    { }
+    {
+        this.isEmpty = false;
+    }
 
 }
