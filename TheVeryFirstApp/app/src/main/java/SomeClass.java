@@ -11,4 +11,6 @@ public class SomeClass {
         this.isEmpty = false;
     }
 
+    public boolean isEmpty()
+    { return this.isEmpty; }
 }
