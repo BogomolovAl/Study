@@ -6,6 +6,8 @@ public class SomeClass {
 
     private boolean isEmpty;
 
+    public static int a;
+
     public SomeClass()
     {
         this.isEmpty = false;
@@ -13,4 +15,12 @@ public class SomeClass {
 
     public boolean isEmpty()
     { return this.isEmpty; }
+
+    public void start()
+    {
+        a = 5;
+
+    }
+
+
 }
