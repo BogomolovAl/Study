@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FirstVisuaApp</string>
+    <string name="enter_phone_number">Enter your phone number</string>
+    <string name="phone_number_type">Phone number type:</string>
+    <string name="office_phone_number">office</string>
+    <string name="home_number_type">home</string>
+    <string name="mobile_number_type">mobile</string>
+    <string name="apply">Apply</string>
+</resources>
